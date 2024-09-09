@@ -1,12 +1,7 @@
 # Adidas-Clone
 This is a Clone of Adidas Website
 
-### Deployment
-| Environment | Link |
-|-------------|------|
-| GitHub Pages | [GitHub Pages](https://kumar-laxmi.github.io/Adidas-Clone/) |
-| Vercel Preview | [Vercel Preview](https://adidas-clone-m0u27psc8-kumar-laxmi.vercel.app/) |
-| Vercel Production | [Vercel Production](https://adidas-clone-m0u27psc8-kumar-laxmi.vercel.app/)
+
 
 ### Technology Stack
 #### Languages:
